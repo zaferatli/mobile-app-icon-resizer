@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobile-app-icon-resizer/static/css/main.ab1dabbf.css",
+    "main.js": "/mobile-app-icon-resizer/static/js/main.7bb7511d.js",
+    "static/js/787.c074c2be.chunk.js": "/mobile-app-icon-resizer/static/js/787.c074c2be.chunk.js",
+    "index.html": "/mobile-app-icon-resizer/index.html",
+    "main.ab1dabbf.css.map": "/mobile-app-icon-resizer/static/css/main.ab1dabbf.css.map",
+    "main.7bb7511d.js.map": "/mobile-app-icon-resizer/static/js/main.7bb7511d.js.map",
+    "787.c074c2be.chunk.js.map": "/mobile-app-icon-resizer/static/js/787.c074c2be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab1dabbf.css",
+    "static/js/main.7bb7511d.js"
+  ]
+}
